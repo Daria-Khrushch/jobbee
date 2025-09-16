@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891162596087",
+    "project_id": "jobee-63625",
+    "storage_bucket": "jobee-63625.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891162596087:android:8d90781af7f4ce846279f2",
+        "android_client_info": {
+          "package_name": "com.jobbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAAF8OUZf4XrxfMMmiB3nkEGJQhagi3gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
